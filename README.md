@@ -2,7 +2,7 @@
 <h3 align="center">Innovation Seeker, Tech Enthusiast, Technology Aficionado 🌟</h3>
 
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Developer" width="400"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Developer" width="400" height="400"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@
 </p>
 
 <br>
-
+<br>
 <h3 align="left">Stats:</h3>
 <p align="left">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt="Danuka's Top Languages" />
