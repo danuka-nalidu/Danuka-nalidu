@@ -5,6 +5,8 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Developer" width="400"/>
 </p>
 
+---
+
 - 🌱 I’m currently learning **Web development, Mobile app development**
 
 - 💬 Ask me about **React, Java, Flutter, JS**
@@ -14,8 +16,6 @@
 - 🏆 I am passionate and enthusiastic about discovering new technologies, always eager to explore innovative tools and solutions
 
 - 🌍 Traveler 🎮 Gamer (PC & Console) 🎥 Movie Enthusiast 🎧 Metalhead
-
----
 
 <div align="center">
   <br>
