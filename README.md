@@ -15,7 +15,7 @@
 
 - 🏆 I am passionate and enthusiastic about discovering new technologies, always eager to explore innovative tools and solutions
 
-- 🌍 Traveler 🎮 Gamer (PC & Console) 🎥 Movie Enthusiast 🎧 Metalhead
+- 🌍 Traveler 🎮 Gamer 🎥 Movie Enthusiast 🎧 Metalhead
 
 <div align="center">
   <br>
