@@ -1,9 +1,9 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1200" height="700" align="center">
+
+---
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Danuka Nalindu</h1>
 <h3 align="center">Innovation Seeker, Researcher, Tech Enthusiast, Technology Aficionado 🌟</h3>
-
-<p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Developer" width="400" height="400"/>
-</p>
 
 ---
 
@@ -24,12 +24,19 @@
   <br/>
 </div>
 
+
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/danukanalindu/)](https://www.linkedin.com/in/danukanalindu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/danuka-nalidu)](https://github.com/danuka-nalidu)
 <br/>
-<br/>
 
+<!-- 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+ -->
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danuka-nalidu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="danuka-nalidu" /></p> |
+| ------------- | ------------- |
+<br/>
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -133,14 +140,4 @@
   <a href="https://www.buymeacoffee.com/danukanalidu">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-</p>
-
-<br>
-<br>
-<h3 align="left">Stats:</h3>
-<p align="left">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danuka-nalidu&layout=compact&theme=dark" alt="Danuka's Top Languages" />
-</p>
-<p>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danuka-nalidu&show_icons=true&locale=en&theme=radical" alt="Danuka's GitHub Stats" />
 </p>
