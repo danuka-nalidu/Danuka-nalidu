@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Web development, Mobile app development**
+- 🌱 I’m currently learning **Web development and Mobile app development**
 
 - 💬 Ask me about **React, Java, Flutter, JS**
 
